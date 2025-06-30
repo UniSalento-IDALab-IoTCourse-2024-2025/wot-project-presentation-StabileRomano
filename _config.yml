@@ -27,7 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  francesco-stabile
 
 # Build settings
-remote_theme: pages-themes/leap-day
+#remote_theme: pages-themes/leap-day
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
