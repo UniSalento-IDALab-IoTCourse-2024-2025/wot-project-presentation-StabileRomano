@@ -1,6 +1,6 @@
 # SpeechSafe
 
-Un sistema intelligente per la protezione uditiva e la comunicazione in ambienti di lavoro rumorosi..
+Un sistema intelligente per la protezione uditiva e la comunicazione in ambienti di lavoro rumorosi.
 
 **📌 Presentazione completa del progetto:**  
 👉 [https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-presentation-StabileRomano/](https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-presentation-StabileRomano/)
