@@ -179,7 +179,14 @@ Il sistema si divide in tre macro-componenti:
 
 
 # 🎥 Demo
-*Screenshot, link a video YouTube o GIF dimostrative.*
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/5xrRp0zISjE" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    allowfullscreen="" 
+    title="SpeechSafe">
+  </iframe>
+</div>
 ---
 # 📫 Contatti
 - 📧 [francesco.stabile@studenti.unisalento.it](mailto:francesco.stabile@studenti.unisalento.it)
