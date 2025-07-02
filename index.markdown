@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-## 🎧 Presentazione del progetto
+# 🎧 Presentazione del progetto
 
 Il progetto si propone di sviluppare un **sistema intelligente per la protezione uditiva e la comunicazione in ambienti di lavoro rumorosi**, utilizzando un'infrastruttura IoT composta da **Raspberry Pi**, **cuffie Bluetooth** e **beacon BLE**.
 
